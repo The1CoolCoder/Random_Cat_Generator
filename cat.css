@@ -36,10 +36,13 @@ body{
 }
 
 .random_cats{
-    width: 40%;
+   width: 90%;
+   max-width: 700px;
 }
 
 img{
+    width: 100%;
     max-width: 700px;
-    height: 40rem;
+    height: auto;
+    display: block;
 }
